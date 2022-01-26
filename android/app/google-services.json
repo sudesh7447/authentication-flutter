@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "760914178734",
+    "project_id": "fir-first-945f4",
+    "storage_bucket": "fir-first-945f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760914178734:android:c35263548b2c3e8c00733f",
+        "android_client_info": {
+          "package_name": "com.learnfire.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760914178734-kkj0b1f2trr9i6va9rrlebqj08cmtnrq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu8P_8XK5-zOjHNhGXozVQD9qCi8-Woo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760914178734-kkj0b1f2trr9i6va9rrlebqj08cmtnrq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
